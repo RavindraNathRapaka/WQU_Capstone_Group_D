@@ -1,2 +1,4 @@
 https://www.investing.com
+https://data.oecd.org
 https://databank.worldbank.org
+https://www.theglobaleconomy.com
