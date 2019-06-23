@@ -1,3 +1,4 @@
 https://www.investing.com
 https://data.oecd.org
+https://fred.stlouisfed.org
 # https://databank.worldbank.org
