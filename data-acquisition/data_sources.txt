@@ -1,4 +1,6 @@
 https://www.investing.com
 https://data.oecd.org
 https://fred.stlouisfed.org
-# https://databank.worldbank.org
+https://www.quandl.com/
+https://databank.worldbank.org
+http://www.fmma30.com
