@@ -1,7 +1,7 @@
 # WQU_Capstone_Group_D
 
 ## Abstract
-
+Our work aims to develop a stand-alone trading system to construct portfolios that show the benefits of value and momentum style integration and presents the effectiveness of alternative integration methods for long-only absolute return funds, which seeks absolute returns that are not highly correlated to traditional assets such as stocks and bonds. Our approach uses the CRoss Industry Standard Process for Data Mining (CRISP-DM) model to guide the necessary steps, processes, and workflows for executing our project. We believe that this approach will be instrumental to our completing the project within the set timeframe. 
 
 ## Project Description
 
