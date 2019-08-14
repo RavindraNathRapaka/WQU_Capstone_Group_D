@@ -17,3 +17,14 @@ https://github.com/RavindraNathRapaka/WQU_Capstone_Group_D/blob/master/reports/W
 * Trevor Mooney - trevor.r.mooney@gmail.com
 * Ravindra Rapaka - ravindranath.rapaka@gmail.com
 
+## References
+
+* https://towardsdatascience.com/choosing-the-right-hyperparameters-for-a-simple-lstm-using-keras-f8e9ed76f046
+* https://towardsdatascience.com/a-quick-start-of-time-series-forecasting-with-a-practical-example-using-fb-prophet-31c4447a2274
+* https://www.quantconnect.com/tutorials/strategy-library/momentum-effect-in-commodities-futures
+* https://medium.com/engineer-quant/alphaai-using-machine-learning-to-predict-stocks-79c620f87e53?PGa=true
+* https://www.quantopian.com/posts/hierarchical-risk-parity-comparing-various-portfolio-diversification-techniques
+* https://www.quantopian.com/posts/kalman-filters-best-practices
+* https://www.quantopian.com/posts/futures-allocation-criteria
+* https://www.quantopian.com/posts/hierarchical-risk-parity-comparing-various-portfolio-diversification-techniques
+* https://www.quantopian.com/posts/continuous-future-data-lifespans
