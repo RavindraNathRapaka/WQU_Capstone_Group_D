@@ -28,3 +28,9 @@ https://github.com/RavindraNathRapaka/WQU_Capstone_Group_D/blob/master/reports/W
 * https://www.quantopian.com/posts/futures-allocation-criteria
 * https://www.quantopian.com/posts/hierarchical-risk-parity-comparing-various-portfolio-diversification-techniques
 * https://www.quantopian.com/posts/continuous-future-data-lifespans
+* https://github.com/QuantConnect/Research/blob/master/Notebooks/05%20Pairs%20Trading%20Strategy%20Based%20on%20Cointegration.ipynb
+* https://medium.com/auquan/pairs-trading-data-science-7dbedafcfe5a
+* https://github.com/ChadFulton/tsa-notebooks/
+* https://pythonforfinance.net/2018/07/04/mean-reversion-pairs-trading-with-inclusion-of-a-kalman-filter/
+
+
